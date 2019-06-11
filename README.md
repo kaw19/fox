@@ -11,5 +11,7 @@ Luminária Fox - Projeto Isabella Fleury
    - Iluminação desliga assim que a luminária retorna à sua base.
 
 Design: Isabella Maria Santana Fleury.
+
 HW/FW:  Cláudio Afonso Fleury.
+
 Mai/2019.
